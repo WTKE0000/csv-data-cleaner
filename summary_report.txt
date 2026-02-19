@@ -1,0 +1,16 @@
+CSV Cleaning Summary Report
+===========================
+
+Original rows: 6
+Cleaned rows:  4
+Duplicates removed: 1
+
+Columns:
+- name
+- email
+- age
+
+Missing values per column:
+- name: 0
+- email: 0
+- age: 1
